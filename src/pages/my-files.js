@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-
+//gatsby
 export default ({ data }) => {
   console.log(data)
   return (
